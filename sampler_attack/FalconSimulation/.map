@@ -1,0 +1,925 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memcpy-stub.o)
+                              falcon.o (memcpy)
+/usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memmove.o)
+                              sign.o (memmove)
+/usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+                              falcon.o (memset)
+/usr/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+                              fpr.o (__aeabi_lmul)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 vector.o
+ .data          0x0000000000000000        0x0 vector.o
+ .bss           0x0000000000000000        0x0 vector.o
+ .text          0x0000000000000000        0x0 project.o
+ .data          0x0000000000000000        0x0 project.o
+ .bss           0x0000000000000000        0x0 project.o
+ .rodata.fpr_q  0x0000000000000000        0x8 project.o
+ .rodata.fpr_inverse_of_q
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_inv_2sqrsigma0
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_inv_sigma
+                0x0000000000000000       0x58 project.o
+ .rodata.fpr_sigma_min
+                0x0000000000000000       0x58 project.o
+ .rodata.fpr_log2
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_inv_log2
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_bnorm_max
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_zero
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_one
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_two
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_onehalf
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_invsqrt2
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_invsqrt8
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_ptwo31
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_ptwo31m1
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_mtwo31m1
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_ptwo63m1
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_mtwo63m1
+                0x0000000000000000        0x8 project.o
+ .rodata.fpr_ptwo63
+                0x0000000000000000        0x8 project.o
+ .text.rand2bytes
+                0x0000000000000000       0x22 project.o
+ .text.print2bytes
+                0x0000000000000000       0x22 project.o
+ .text.rand4bytes
+                0x0000000000000000       0x36 project.o
+ .text.print4bytes
+                0x0000000000000000       0x36 project.o
+ .text.read4bytes
+                0x0000000000000000       0x36 project.o
+ .text.read8bytes
+                0x0000000000000000       0x5e project.o
+ .text.print8bytes
+                0x0000000000000000       0x5e project.o
+ .text.masked_sampler
+                0x0000000000000000       0xe4 project.o
+ .data.dist.1   0x0000000000000000       0xd8 project.o
+ .text          0x0000000000000000        0x0 common.o
+ .data          0x0000000000000000        0x0 common.o
+ .bss           0x0000000000000000        0x0 common.o
+ .rodata.fpr_q  0x0000000000000000        0x8 common.o
+ .rodata.fpr_inverse_of_q
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_inv_2sqrsigma0
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_inv_sigma
+                0x0000000000000000       0x58 common.o
+ .rodata.fpr_sigma_min
+                0x0000000000000000       0x58 common.o
+ .rodata.fpr_log2
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_inv_log2
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_bnorm_max
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_zero
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_one
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_two
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_onehalf
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_invsqrt2
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_invsqrt8
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_ptwo31
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_ptwo31m1
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_mtwo31m1
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_ptwo63m1
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_mtwo63m1
+                0x0000000000000000        0x8 common.o
+ .rodata.fpr_ptwo63
+                0x0000000000000000        0x8 common.o
+ .text.falcon_inner_hash_to_point_vartime
+                0x0000000000000000       0x80 common.o
+ .text.falcon_inner_hash_to_point_ct
+                0x0000000000000000      0x3d0 common.o
+ .rodata.l2bound
+                0x0000000000000000       0x2c common.o
+ .text.falcon_inner_is_short
+                0x0000000000000000       0xa0 common.o
+ .text.falcon_inner_is_short_half
+                0x0000000000000000       0x7c common.o
+ .rodata.overtab.0
+                0x0000000000000000       0x16 common.o
+ .debug_info    0x0000000000000000      0x6cc common.o
+ .debug_abbrev  0x0000000000000000      0x1c7 common.o
+ .debug_aranges
+                0x0000000000000000       0x38 common.o
+ .debug_ranges  0x0000000000000000       0x28 common.o
+ .debug_line    0x0000000000000000      0x395 common.o
+ .debug_str     0x0000000000000000      0x386 common.o
+ .comment       0x0000000000000000       0x4e common.o
+ .debug_frame   0x0000000000000000       0x94 common.o
+ .ARM.attributes
+                0x0000000000000000       0x2c common.o
+ .text          0x0000000000000000        0x0 falcon.o
+ .data          0x0000000000000000        0x0 falcon.o
+ .bss           0x0000000000000000        0x0 falcon.o
+ .text.set_fpu_cw
+                0x0000000000000000       0x12 falcon.o
+ .rodata.fpr_q  0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_inverse_of_q
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_inv_2sqrsigma0
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_inv_sigma
+                0x0000000000000000       0x58 falcon.o
+ .rodata.fpr_sigma_min
+                0x0000000000000000       0x58 falcon.o
+ .rodata.fpr_log2
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_inv_log2
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_bnorm_max
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_zero
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_one
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_two
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_onehalf
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_invsqrt2
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_invsqrt8
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_ptwo31
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_ptwo31m1
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_mtwo31m1
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_ptwo63m1
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_mtwo63m1
+                0x0000000000000000        0x8 falcon.o
+ .rodata.fpr_ptwo63
+                0x0000000000000000        0x8 falcon.o
+ .text.shake256_init
+                0x0000000000000000       0x18 falcon.o
+ .text.shake256_inject
+                0x0000000000000000       0x20 falcon.o
+ .text.shake256_flip
+                0x0000000000000000       0x18 falcon.o
+ .text.shake256_extract
+                0x0000000000000000       0x20 falcon.o
+ .text.shake256_init_prng_from_seed
+                0x0000000000000000       0x28 falcon.o
+ .text.shake256_init_prng_from_system
+                0x0000000000000000       0x3e falcon.o
+ .text.align_u64
+                0x0000000000000000       0x30 falcon.o
+ .text.align_u16
+                0x0000000000000000       0x24 falcon.o
+ .text.align_fpr
+                0x0000000000000000       0x30 falcon.o
+ .text.falcon_keygen_make
+                0x0000000000000000      0x290 falcon.o
+ .text.falcon_make_public
+                0x0000000000000000      0x1d4 falcon.o
+ .text.falcon_get_logn
+                0x0000000000000000       0x3e falcon.o
+ .text.falcon_sign_start
+                0x0000000000000000       0x36 falcon.o
+ .text.falcon_sign_dyn_finish
+                0x0000000000000000      0x798 falcon.o
+ .text.falcon_expand_privkey
+                0x0000000000000000      0x224 falcon.o
+ .text.falcon_sign_tree_finish
+                0x0000000000000000      0x504 falcon.o
+ .text.falcon_sign_dyn
+                0x0000000000000000       0x9a falcon.o
+ .text.falcon_sign_tree
+                0x0000000000000000       0x90 falcon.o
+ .text.falcon_verify_start
+                0x0000000000000000       0x38 falcon.o
+ .text.falcon_verify_finish
+                0x0000000000000000      0x3c4 falcon.o
+ .text.falcon_verify
+                0x0000000000000000       0x7e falcon.o
+ .debug_info    0x0000000000000000     0x11cc falcon.o
+ .debug_abbrev  0x0000000000000000      0x236 falcon.o
+ .debug_aranges
+                0x0000000000000000       0xc8 falcon.o
+ .debug_ranges  0x0000000000000000       0xe8 falcon.o
+ .debug_line    0x0000000000000000      0xa7f falcon.o
+ .debug_str     0x0000000000000000      0x5b1 falcon.o
+ .comment       0x0000000000000000       0x4e falcon.o
+ .debug_frame   0x0000000000000000      0x2f8 falcon.o
+ .ARM.attributes
+                0x0000000000000000       0x2c falcon.o
+ .text          0x0000000000000000        0x0 fpr.o
+ .data          0x0000000000000000        0x0 fpr.o
+ .bss           0x0000000000000000        0x0 fpr.o
+ .text.fpr_ursh
+                0x0000000000000000       0xa2 fpr.o
+ .text.fpr_ulsh
+                0x0000000000000000       0xa2 fpr.o
+ .text.FPR      0x0000000000000000      0x100 fpr.o
+ .rodata.fpr_q  0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_inverse_of_q
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_inv_2sqrsigma0
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_inv_sigma
+                0x0000000000000000       0x58 fpr.o
+ .rodata.fpr_sigma_min
+                0x0000000000000000       0x58 fpr.o
+ .rodata.fpr_log2
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_inv_log2
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_bnorm_max
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_zero
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_one
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_two
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_onehalf
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_invsqrt2
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_invsqrt8
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_ptwo31
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_ptwo31m1
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_mtwo31m1
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_ptwo63m1
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_mtwo63m1
+                0x0000000000000000        0x8 fpr.o
+ .rodata.fpr_ptwo63
+                0x0000000000000000        0x8 fpr.o
+ .text.fpr_trunc
+                0x0000000000000000      0x100 fpr.o
+ .text.falcon_inner_fpr_scaled
+                0x0000000000000000     0x1218 fpr.o
+ .text.falcon_inner_fpr_add
+                0x0000000000000000      0xbf4 fpr.o
+ .text.falcon_inner_fpr_mul
+                0x0000000000000000      0x578 fpr.o
+ .text.falcon_inner_fpr_div
+                0x0000000000000000      0x3b8 fpr.o
+ .text.falcon_inner_fpr_sqrt
+                0x0000000000000000      0x2ec fpr.o
+ .text.falcon_inner_fpr_expm_p63
+                0x0000000000000000      0x4dc fpr.o
+ .rodata.falcon_inner_fpr_gm_tab
+                0x0000000000000000     0x4000 fpr.o
+ .rodata.falcon_inner_fpr_p2_tab
+                0x0000000000000000       0x58 fpr.o
+ .rodata.C.0    0x0000000000000000       0x68 fpr.o
+ .debug_info    0x0000000000000000      0x965 fpr.o
+ .debug_abbrev  0x0000000000000000      0x1ac fpr.o
+ .debug_aranges
+                0x0000000000000000       0x68 fpr.o
+ .debug_ranges  0x0000000000000000       0x58 fpr.o
+ .debug_line    0x0000000000000000      0x763 fpr.o
+ .debug_str     0x0000000000000000      0x36a fpr.o
+ .comment       0x0000000000000000       0x4e fpr.o
+ .debug_frame   0x0000000000000000      0x180 fpr.o
+ .ARM.attributes
+                0x0000000000000000       0x2c fpr.o
+ .text          0x0000000000000000        0x0 rng.o
+ .data          0x0000000000000000        0x0 rng.o
+ .bss           0x0000000000000000        0x0 rng.o
+ .rodata.fpr_q  0x0000000000000000        0x8 rng.o
+ .rodata.fpr_inverse_of_q
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_inv_2sqrsigma0
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_inv_sigma
+                0x0000000000000000       0x58 rng.o
+ .rodata.fpr_sigma_min
+                0x0000000000000000       0x58 rng.o
+ .rodata.fpr_log2
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_inv_log2
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_bnorm_max
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_zero
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_one
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_two
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_onehalf
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_invsqrt2
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_invsqrt8
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_ptwo31
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_ptwo31m1
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_mtwo31m1
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_ptwo63m1
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_mtwo63m1
+                0x0000000000000000        0x8 rng.o
+ .rodata.fpr_ptwo63
+                0x0000000000000000        0x8 rng.o
+ .text.falcon_inner_get_seed
+                0x0000000000000000       0x1e rng.o
+ .text.falcon_inner_prng_get_bytes
+                0x0000000000000000       0x86 rng.o
+ .text          0x0000000000000000        0x0 shake.o
+ .data          0x0000000000000000        0x0 shake.o
+ .bss           0x0000000000000000        0x0 shake.o
+ .rodata.fpr_q  0x0000000000000000        0x8 shake.o
+ .rodata.fpr_inverse_of_q
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_inv_2sqrsigma0
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_inv_sigma
+                0x0000000000000000       0x58 shake.o
+ .rodata.fpr_sigma_min
+                0x0000000000000000       0x58 shake.o
+ .rodata.fpr_log2
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_inv_log2
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_bnorm_max
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_zero
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_one
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_two
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_onehalf
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_invsqrt2
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_invsqrt8
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_ptwo31
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_ptwo31m1
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_mtwo31m1
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_ptwo63m1
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_mtwo63m1
+                0x0000000000000000        0x8 shake.o
+ .rodata.fpr_ptwo63
+                0x0000000000000000        0x8 shake.o
+ .text          0x0000000000000000        0x0 fft.o
+ .data          0x0000000000000000        0x0 fft.o
+ .bss           0x0000000000000000        0x0 fft.o
+ .rodata.fpr_q  0x0000000000000000        0x8 fft.o
+ .rodata.fpr_inverse_of_q
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_inv_2sqrsigma0
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_inv_sigma
+                0x0000000000000000       0x58 fft.o
+ .rodata.fpr_sigma_min
+                0x0000000000000000       0x58 fft.o
+ .rodata.fpr_log2
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_inv_log2
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_bnorm_max
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_zero
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_one
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_two
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_onehalf
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_invsqrt2
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_invsqrt8
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_ptwo31
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_ptwo31m1
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_mtwo31m1
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_ptwo63m1
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_mtwo63m1
+                0x0000000000000000        0x8 fft.o
+ .rodata.fpr_ptwo63
+                0x0000000000000000        0x8 fft.o
+ .text.fpr_sub  0x0000000000000000       0x3e fft.o
+ .text.fpr_neg  0x0000000000000000       0x2e fft.o
+ .text.fpr_half
+                0x0000000000000000       0x70 fft.o
+ .text.fpr_sqr  0x0000000000000000       0x24 fft.o
+ .text.fpr_inv  0x0000000000000000       0x28 fft.o
+ .text.falcon_inner_FFT
+                0x0000000000000000      0x308 fft.o
+ .text.falcon_inner_iFFT
+                0x0000000000000000      0x380 fft.o
+ .text.falcon_inner_poly_add
+                0x0000000000000000       0x60 fft.o
+ .text.falcon_inner_poly_sub
+                0x0000000000000000       0x60 fft.o
+ .text.falcon_inner_poly_neg
+                0x0000000000000000       0x56 fft.o
+ .text.falcon_inner_poly_adj_fft
+                0x0000000000000000       0x58 fft.o
+ .text.falcon_inner_poly_mul_fft
+                0x0000000000000000      0x128 fft.o
+ .text.falcon_inner_poly_muladj_fft
+                0x0000000000000000      0x134 fft.o
+ .text.falcon_inner_poly_mulselfadj_fft
+                0x0000000000000000       0xa8 fft.o
+ .text.falcon_inner_poly_mulconst
+                0x0000000000000000       0x58 fft.o
+ .text.falcon_inner_poly_div_fft
+                0x0000000000000000      0x19c fft.o
+ .text.falcon_inner_poly_invnorm2_fft
+                0x0000000000000000      0x100 fft.o
+ .text.falcon_inner_poly_add_muladj_fft
+                0x0000000000000000      0x404 fft.o
+ .text.falcon_inner_poly_mul_autoadj_fft
+                0x0000000000000000       0x9a fft.o
+ .text.falcon_inner_poly_div_autoadj_fft
+                0x0000000000000000       0xa6 fft.o
+ .text.falcon_inner_poly_LDL_fft
+                0x0000000000000000      0x370 fft.o
+ .text.falcon_inner_poly_LDLmv_fft
+                0x0000000000000000      0x65e fft.o
+ .text.falcon_inner_poly_split_fft
+                0x0000000000000000      0x2b8 fft.o
+ .text.falcon_inner_poly_merge_fft
+                0x0000000000000000      0x26c fft.o
+ .debug_info    0x0000000000000000     0x1a17 fft.o
+ .debug_abbrev  0x0000000000000000      0x1af fft.o
+ .debug_aranges
+                0x0000000000000000       0xd8 fft.o
+ .debug_ranges  0x0000000000000000       0xc8 fft.o
+ .debug_line    0x0000000000000000      0xe16 fft.o
+ .debug_str     0x0000000000000000      0x5d5 fft.o
+ .comment       0x0000000000000000       0x4e fft.o
+ .debug_frame   0x0000000000000000      0x368 fft.o
+ .ARM.attributes
+                0x0000000000000000       0x2c fft.o
+ .text          0x0000000000000000        0x0 sign.o
+ .data          0x0000000000000000        0x0 sign.o
+ .bss           0x0000000000000000        0x0 sign.o
+ .text.fpr_ursh
+                0x0000000000000000       0xa2 sign.o
+ .text.fpr_irsh
+                0x0000000000000000       0xa4 sign.o
+ .text.fpr_ulsh
+                0x0000000000000000       0xa2 sign.o
+ .text.fpr_of   0x0000000000000000       0x22 sign.o
+ .rodata.fpr_q  0x0000000000000000        0x8 sign.o
+ .rodata.fpr_inverse_of_q
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_inv_2sqrsigma0
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_inv_sigma
+                0x0000000000000000       0x58 sign.o
+ .rodata.fpr_sigma_min
+                0x0000000000000000       0x58 sign.o
+ .rodata.fpr_log2
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_inv_log2
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_bnorm_max
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_zero
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_one
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_two
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_onehalf
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_invsqrt2
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_invsqrt8
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_ptwo31
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_ptwo31m1
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_mtwo31m1
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_ptwo63m1
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_mtwo63m1
+                0x0000000000000000        0x8 sign.o
+ .rodata.fpr_ptwo63
+                0x0000000000000000        0x8 sign.o
+ .text.fpr_rint
+                0x0000000000000000      0x190 sign.o
+ .text.fpr_floor
+                0x0000000000000000      0x124 sign.o
+ .text.fpr_trunc
+                0x0000000000000000      0x100 sign.o
+ .text.fpr_sub  0x0000000000000000       0x3e sign.o
+ .text.fpr_neg  0x0000000000000000       0x2e sign.o
+ .text.fpr_half
+                0x0000000000000000       0x70 sign.o
+ .text.fpr_sqr  0x0000000000000000       0x24 sign.o
+ .text.prng_get_u64
+                0x0000000000000000      0x226 sign.o
+ .text.prng_get_u8
+                0x0000000000000000       0x42 sign.o
+ .text.ffLDL_treesize
+                0x0000000000000000       0x1a sign.o
+ .text.ffLDL_fft_inner
+                0x0000000000000000       0xc0 sign.o
+ .text.ffLDL_fft
+                0x0000000000000000       0xf4 sign.o
+ .text.ffLDL_binary_normalize
+                0x0000000000000000       0x88 sign.o
+ .text.smallints_to_fpr
+                0x0000000000000000       0x5c sign.o
+ .text.skoff_b00
+                0x0000000000000000       0x12 sign.o
+ .text.skoff_b01
+                0x0000000000000000       0x18 sign.o
+ .text.skoff_b10
+                0x0000000000000000       0x18 sign.o
+ .text.skoff_b11
+                0x0000000000000000       0x18 sign.o
+ .text.skoff_tree
+                0x0000000000000000       0x18 sign.o
+ .text.falcon_inner_expand_privkey
+                0x0000000000000000      0x206 sign.o
+ .text.ffSampling_fft_dyntree
+                0x0000000000000000      0x274 sign.o
+ .text.ffSampling_fft
+                0x0000000000000000     0x2f58 sign.o
+ .text.do_sign_tree
+                0x0000000000000000      0x2fc sign.o
+ .text.do_sign_dyn
+                0x0000000000000000      0x57c sign.o
+ .text.falcon_inner_gaussian0_sampler
+                0x0000000000000000       0xcc sign.o
+ .text.BerExp   0x0000000000000000      0x140 sign.o
+ .text.falcon_inner_sampler
+                0x0000000000000000      0x148 sign.o
+ .text.falcon_inner_sign_tree
+                0x0000000000000000       0xb0 sign.o
+ .text.falcon_inner_sign_dyn
+                0x0000000000000000       0xd0 sign.o
+ .rodata.dist.0
+                0x0000000000000000       0xd8 sign.o
+ .debug_info    0x0000000000000000     0x179c sign.o
+ .debug_abbrev  0x0000000000000000      0x2f0 sign.o
+ .debug_aranges
+                0x0000000000000000      0x120 sign.o
+ .debug_ranges  0x0000000000000000      0x110 sign.o
+ .debug_line    0x0000000000000000      0xf68 sign.o
+ .debug_str     0x0000000000000000      0x598 sign.o
+ .comment       0x0000000000000000       0x4e sign.o
+ .debug_frame   0x0000000000000000      0x494 sign.o
+ .ARM.attributes
+                0x0000000000000000       0x2c sign.o
+ .data          0x0000000000000000        0x0 elmoasmfunctions.o
+ .bss           0x0000000000000000        0x0 elmoasmfunctions.o
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0xac /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000       0x5c /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000008000000 0x0000000000010000 xr
+ram              0x0000000020000000 0x0000000000002000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD vector.o
+LOAD project.o
+LOAD common.o
+LOAD falcon.o
+LOAD fpr.o
+LOAD rng.o
+LOAD shake.o
+LOAD fft.o
+LOAD sign.o
+LOAD elmoasmfunctions.o
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a
+END GROUP
+
+.text           0x0000000008000000     0x69b8
+ *(.vectors)
+ .vectors       0x0000000008000000       0xc0 vector.o
+                0x0000000008000000                vector_table
+ *(.text*)
+ .text.blocking_handler
+                0x00000000080000c0        0x2 vector.o
+                0x00000000080000c0                rtc_isr
+                0x00000000080000c0                tim7_isr
+                0x00000000080000c0                blocking_handler
+                0x00000000080000c0                tsc_isr
+                0x00000000080000c0                spi1_isr
+                0x00000000080000c0                i2c1_isr
+                0x00000000080000c0                tim17_isr
+                0x00000000080000c0                i2c2_isr
+                0x00000000080000c0                usart1_isr
+                0x00000000080000c0                usart3_4_isr
+                0x00000000080000c0                tim1_cc_isr
+                0x00000000080000c0                exti2_3_isr
+                0x00000000080000c0                tim16_isr
+                0x00000000080000c0                pvd_isr
+                0x00000000080000c0                rcc_isr
+                0x00000000080000c0                flash_isr
+                0x00000000080000c0                hard_fault_handler
+                0x00000000080000c0                tim14_isr
+                0x00000000080000c0                spi2_isr
+                0x00000000080000c0                usb_isr
+                0x00000000080000c0                tim15_isr
+                0x00000000080000c0                tim3_isr
+                0x00000000080000c0                usart2_isr
+                0x00000000080000c0                adc_comp_isr
+                0x00000000080000c0                dma1_channel1_isr
+                0x00000000080000c0                tim6_dac_isr
+                0x00000000080000c0                tim1_brk_up_trg_com_isr
+                0x00000000080000c0                dma1_channel2_3_isr
+                0x00000000080000c0                exti4_15_isr
+                0x00000000080000c0                cec_can_isr
+                0x00000000080000c0                wwdg_isr
+                0x00000000080000c0                tim2_isr
+                0x00000000080000c0                dma1_channel4_5_isr
+                0x00000000080000c0                exti0_1_isr
+ .text.null_handler
+                0x00000000080000c2        0x2 vector.o
+                0x00000000080000c2                null_handler
+                0x00000000080000c2                sv_call_handler
+                0x00000000080000c2                pend_sv_handler
+                0x00000000080000c2                sys_tick_handler
+                0x00000000080000c2                nmi_handler
+ .text.reset_handler
+                0x00000000080000c4       0x7c vector.o
+                0x00000000080000c4                reset_handler
+ .text.prng_get_u64
+                0x0000000008000140      0x226 project.o
+ .text.prng_get_u8
+                0x0000000008000366       0x42 project.o
+ .text.read2bytes
+                0x00000000080003a8       0x22 project.o
+ *fill*         0x00000000080003ca        0x2 
+ .text.sampler  0x00000000080003cc       0xd4 project.o
+ .text.main     0x00000000080004a0       0xb0 project.o
+                0x00000000080004a0                main
+ .text.falcon_inner_prng_init
+                0x0000000008000550       0x2c rng.o
+                0x0000000008000550                falcon_inner_prng_init
+ .text.falcon_inner_prng_refill
+                0x000000000800057c      0x924 rng.o
+                0x000000000800057c                falcon_inner_prng_refill
+ .text.process_block
+                0x0000000008000ea0     0x566c shake.o
+ .text.falcon_inner_i_shake256_init
+                0x000000000800650c       0x2a shake.o
+                0x000000000800650c                falcon_inner_i_shake256_init
+ .text.falcon_inner_i_shake256_inject
+                0x0000000008006536       0xaa shake.o
+                0x0000000008006536                falcon_inner_i_shake256_inject
+ .text.falcon_inner_i_shake256_flip
+                0x00000000080065e0       0x56 shake.o
+                0x00000000080065e0                falcon_inner_i_shake256_flip
+ .text.falcon_inner_i_shake256_extract
+                0x0000000008006636       0x86 shake.o
+                0x0000000008006636                falcon_inner_i_shake256_extract
+ .text          0x00000000080066bc       0xda elmoasmfunctions.o
+                0x00000000080066bc                starttrigger
+                0x00000000080066ce                endtrigger
+                0x00000000080066e0                readbyte
+                0x00000000080066ee                LoadN
+                0x0000000008006700                randbyte
+                0x0000000008006712                getstart
+                0x0000000008006724                getruncount
+                0x0000000008006736                printbyte
+                0x0000000008006744                endprogram
+                0x0000000008006752                initialisemaskflow
+                0x0000000008006762                resetmaskflow
+                0x0000000008006774                setmaskflowstart
+                0x0000000008006784                resetdatafile
+ *fill*         0x0000000008006796        0x2 
+ .text.memcpy   0x0000000008006798       0xa4 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memcpy-stub.o)
+                0x0000000008006798                memcpy
+ .text.memset   0x000000000800683c       0xa8 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+                0x000000000800683c                memset
+                0x00000000080068e4                . = ALIGN (0x4)
+ *(.rodata*)
+ .rodata.CW.0   0x00000000080068e4       0x10 rng.o
+ *fill*         0x00000000080068f4        0x4 
+ .rodata.RC     0x00000000080068f8       0xc0 shake.o
+                0x00000000080069b8                . = ALIGN (0x4)
+
+.glue_7         0x00000000080069b8        0x0
+ .glue_7        0x00000000080069b8        0x0 linker stubs
+
+.glue_7t        0x00000000080069b8        0x0
+ .glue_7t       0x00000000080069b8        0x0 linker stubs
+
+.vfp11_veneer   0x00000000080069b8        0x0
+ .vfp11_veneer  0x00000000080069b8        0x0 linker stubs
+
+.v4_bx          0x00000000080069b8        0x0
+ .v4_bx         0x00000000080069b8        0x0 linker stubs
+
+.iplt           0x00000000080069b8        0x0
+ .iplt          0x00000000080069b8        0x0 vector.o
+
+.rel.dyn        0x00000000080069b8        0x0
+ .rel.iplt      0x00000000080069b8        0x0 vector.o
+
+.preinit_array  0x00000000080069b8        0x0
+                0x00000000080069b8                . = ALIGN (0x4)
+                0x00000000080069b8                __preinit_array_start = .
+ *(.preinit_array)
+                0x00000000080069b8                __preinit_array_end = .
+
+.init_array     0x00000000080069b8        0x0
+                0x00000000080069b8                . = ALIGN (0x4)
+                0x00000000080069b8                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x00000000080069b8                __init_array_end = .
+
+.fini_array     0x00000000080069b8        0x0
+                0x00000000080069b8                . = ALIGN (0x4)
+                0x00000000080069b8                __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+                0x00000000080069b8                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x00000000080069b8        0x0
+                0x00000000080069b8                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00000000080069b8                __exidx_end = .
+                0x00000000080069b8                . = ALIGN (0x4)
+                0x00000000080069b8                _etext = .
+
+.data           0x0000000020000000       0xd8 load address 0x00000000080069b8
+                0x0000000020000000                _data = .
+ *(.data*)
+ .data.dist.0   0x0000000020000000       0xd8 project.o
+                0x00000000200000d8                . = ALIGN (0x4)
+                0x00000000200000d8                _edata = .
+                0x00000000080069b8                _data_loadaddr = LOADADDR (.data)
+
+.igot.plt       0x00000000200000d8        0x0 load address 0x0000000008006a90
+ .igot.plt      0x00000000200000d8        0x0 vector.o
+
+.bss            0x00000000200000d8        0x0 load address 0x0000000008006a90
+ *(.bss*)
+ *(COMMON)
+                0x00000000200000d8                . = ALIGN (0x4)
+                0x00000000200000d8                _ebss = .
+
+/DISCARD/
+ *(.eh_frame)
+                0x00000000200000d8                . = ALIGN (0x4)
+                0x00000000200000d8                end = .
+                0x0000000020002000                PROVIDE (_stack = (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(project.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000     0x156b
+ .debug_info    0x0000000000000000      0x2d1 vector.o
+ .debug_info    0x00000000000002d1      0x7c7 project.o
+ .debug_info    0x0000000000000a98      0x53f rng.o
+ .debug_info    0x0000000000000fd7      0x594 shake.o
+
+.debug_abbrev   0x0000000000000000      0x6a3
+ .debug_abbrev  0x0000000000000000      0x12a vector.o
+ .debug_abbrev  0x000000000000012a      0x219 project.o
+ .debug_abbrev  0x0000000000000343      0x1ea rng.o
+ .debug_abbrev  0x000000000000052d      0x176 shake.o
+
+.debug_loc      0x0000000000000000       0xee
+ .debug_loc     0x0000000000000000       0xee vector.o
+
+.debug_aranges  0x0000000000000000      0x128
+ .debug_aranges
+                0x0000000000000000       0x30 vector.o
+ .debug_aranges
+                0x0000000000000030       0x80 project.o
+ .debug_aranges
+                0x00000000000000b0       0x38 rng.o
+ .debug_aranges
+                0x00000000000000e8       0x40 shake.o
+
+.debug_ranges   0x0000000000000000       0xe8
+ .debug_ranges  0x0000000000000000       0x20 vector.o
+ .debug_ranges  0x0000000000000020       0x70 project.o
+ .debug_ranges  0x0000000000000090       0x28 rng.o
+ .debug_ranges  0x00000000000000b8       0x30 shake.o
+
+.debug_line     0x0000000000000000     0x26e3
+ .debug_line    0x0000000000000000       0xf9 vector.o
+ .debug_line    0x00000000000000f9      0x496 project.o
+ .debug_line    0x000000000000058f      0x2c9 rng.o
+ .debug_line    0x0000000000000858     0x1e8b shake.o
+
+.debug_str      0x0000000000000000      0x670
+ .debug_str     0x0000000000000000      0x285 vector.o
+                                        0x2be (size before relaxing)
+ .debug_str     0x0000000000000285      0x2ef project.o
+                                        0x3b9 (size before relaxing)
+ .debug_str     0x0000000000000574       0x6d rng.o
+                                        0x345 (size before relaxing)
+ .debug_str     0x00000000000005e1       0x8f shake.o
+                                        0x339 (size before relaxing)
+
+.comment        0x0000000000000000       0xbd
+ .comment       0x0000000000000000       0x70 vector.o
+                                         0x71 (size before relaxing)
+ .comment       0x0000000000000070       0x4d project.o
+                                         0x4e (size before relaxing)
+ .comment       0x00000000000000bd       0x4e rng.o
+ .comment       0x00000000000000bd       0x4e shake.o
+
+.ARM.attributes
+                0x0000000000000000       0x2f
+ .ARM.attributes
+                0x0000000000000000       0x31 vector.o
+ .ARM.attributes
+                0x0000000000000031       0x2c project.o
+ .ARM.attributes
+                0x000000000000005d       0x2c rng.o
+ .ARM.attributes
+                0x0000000000000089       0x2c shake.o
+ .ARM.attributes
+                0x00000000000000b5       0x21 elmoasmfunctions.o
+ .ARM.attributes
+                0x00000000000000d6       0x2c /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000102       0x2c /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+
+.debug_frame    0x0000000000000000      0x3b8
+ .debug_frame   0x0000000000000000       0x40 vector.o
+ .debug_frame   0x0000000000000040      0x1bc project.o
+ .debug_frame   0x00000000000001fc       0x94 rng.o
+ .debug_frame   0x0000000000000290       0xc4 shake.o
+ .debug_frame   0x0000000000000354       0x34 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000388       0x30 /usr/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
